@@ -9,7 +9,13 @@ My classwork from BIMM Spring 25 at UCSD
 
 - 06 R Functions
 
-- 07 
- Report 7: (labclass07)
+- 07 Report
 
-- 08 
+
+- 08 Report
+
+-09 Report
+
+-10 Report
+
+-11 Report
