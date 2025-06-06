@@ -1,0 +1,12 @@
+---
+title: "Class15"
+author: "Ava Limtiaco (A18007672)"
+format: html
+---
+
+
+```{r}
+library(bio3d)
+
+```
+
